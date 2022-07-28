@@ -352,4 +352,6 @@ fastlane/test_output
 # Fastlane.swift runner binary
 fastlane/FastlaneRunner
 
+fastlane/.env.default
+
 # End of https://www.toptal.com/developers/gitignore/api/fastlane
